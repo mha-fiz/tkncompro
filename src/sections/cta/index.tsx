@@ -1,4 +1,4 @@
-import { Button, Container, Text, Title, createStyles } from "@mantine/core";
+import { Button, Container, Title, createStyles } from "@mantine/core";
 
 const useStyles = createStyles((theme) => ({
   root: {
